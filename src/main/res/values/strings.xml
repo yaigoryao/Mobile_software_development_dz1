@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dz1</string>
+    <string name="alarm_list_label">Список будильников</string>
+    <string name="app_label">Менеджер будильников</string>
+    <string name="add_alarm_button_text">Добавить будильник</string>
+    <string name="remove_alarm_button_text">Удалить будильник</string>
+    <string name="alarm_on_toggle_text">ВКЛ</string>
+    <string name="alarm_off_toggle_text">ВЫКЛ</string>
+    <string name="select_alarm_sound_text">Выберите звук</string>
+</resources>
